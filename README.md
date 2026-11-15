@@ -20,7 +20,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<you>/godot-ex.git
+git clone https://github.com/abigail-lilys/godot-ex.git
 cd godot-ex
 python godot-ex.py --help
 ```
